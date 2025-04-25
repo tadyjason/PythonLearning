@@ -6,7 +6,7 @@ A place to upload created projects and drills as I learn Python
 
 --
 
-**25.Apr.2025** - 
+**25.Apr.2025** - updated the rock paper scissors to include a win counter and track.  Print added at the bottom to track score and uploaded to GH. Continuing with lists now and following along with VSC.  No issues with VSC now that I have aligned the profile with Python.  
 
 **24.Apr.2025** - started today with combining conditionals and utilizing __name__ == "__main__" for file execution. Also created a rock,paper, scissors game. Will move onto lists for today but running out of time. ;)
 
