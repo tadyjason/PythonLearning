@@ -5,6 +5,8 @@ A place to upload created projects and drills as I learn Python
 # Change/Activity Log 
 
 --
+**1.May.2025** - Didn't update yesterday but began functions on Mimo.  Will perform the list project today too depending on how I feel - have had fever for the last two days...not the birthday present I had envisioned :). 
+
 **29.Apr.2025** - Took a break for the weekend and will have another break for my birthday tomorrow.  Will do best to finsh lists today and start a new project. We'll see if time will allow. Update: finished lists just in time.  Will expand on lists and advanced list loops tomorrow in a personal project. Functions are next but I'll need to skill check before I move ahead.
 
 **25.Apr.2025** - updated the rock paper scissors to include a win counter and track.  Print added at the bottom to track score and uploaded to GH. Continuing with lists now and following along with VSC.  No issues with VSC now that I have aligned the profile with Python.  
