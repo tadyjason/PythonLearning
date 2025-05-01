@@ -5,7 +5,7 @@ A place to upload created projects and drills as I learn Python
 # Change/Activity Log 
 
 --
-**1.May.2025** - Didn't update yesterday but began functions on Mimo.  Will perform the list project today too depending on how I feel - have had fever for the last two days...not the birthday present I had envisioned :). 
+**1.May.2025** - Didn't update yesterday but began functions on Mimo.  Will perform the list project today too depending on how I feel - have had fever for the last two days...not the birthday present I had envisioned :). I don't think I'll make the list project today. I have been on a sidequest today looking at call diagrams for py and real-world usage.  I understand the usage of modules and their characteristics.
 
 **29.Apr.2025** - Took a break for the weekend and will have another break for my birthday tomorrow.  Will do best to finsh lists today and start a new project. We'll see if time will allow. Update: finished lists just in time.  Will expand on lists and advanced list loops tomorrow in a personal project. Functions are next but I'll need to skill check before I move ahead.
 
