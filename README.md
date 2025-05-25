@@ -5,7 +5,7 @@ A place to upload created projects and drills as I learn Python
 # Change/Activity Log 
 
 --
-**7.May.2025** - 
+**25.May.2025** - I haven't updated in awhile - First sick during my birthday and now again this past week, and of course we have been circulating it through the family.  Should be back on track tomorrow. Also noting that I am refreshing on SQL in conjunction with this by splitting my time between the two with a 3:1 ratio (Python as Primary). I don't suspect too much trouble with SQL. Will pursue certifications on Python and SQL this year, maybe SQL first being I'm more comfortable with that.  We'll see.
 
 **1.May.2025** - Didn't update yesterday but began functions on Mimo.  Will perform the list project today too depending on how I feel - have had fever for the last two days...not the birthday present I had envisioned :). I don't think I'll make the list project today. I have been on a sidequest today looking at call diagrams for py and real-world usage.  I understand the usage of modules and their characteristics.
 
